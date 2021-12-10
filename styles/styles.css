@@ -1,0 +1,18 @@
+*,
+*::before,
+*::after {
+	box-sizing: border-box;
+}
+.message-container {
+	width: 100vw;
+	height: 100vh;
+	background: #f4f1de;
+	color: #582f0e;
+	font-size: 3rem;
+}
+.message-container h1 {
+	margin: 0;
+}
+.serif {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+}
